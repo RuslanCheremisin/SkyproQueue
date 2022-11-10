@@ -35,7 +35,7 @@ public class ChessBoard {
                 }
             }
 
-            System.out.println("\n");
+            System.out.println();
         }
     }
 }
