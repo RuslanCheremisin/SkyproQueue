@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-
+        //////////////// дз про очереди //////////////////
 
         String[] clients = {"Client1", "Client2", "Client3", "Client4", "Client5", "Client6", "Client7", "Client8", "Client9", "Client10", "Client11", "Client12", "Client13", "Client14", "Client15", "Client16", "Client17", "Client18", "Client19", "Client20", "Client21",};
 
@@ -20,6 +20,7 @@ public class Main {
         System.out.println(supermarketWith3Queues.getQueue2().toString());
         System.out.println(supermarketWith3Queues.getQueue3().toString());
 
+        ///////////////// дз про шахматную доску //////////////////
 
         ChessBoard chessBoard = new ChessBoard();
 
