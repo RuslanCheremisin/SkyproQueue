@@ -21,6 +21,7 @@ public class Main {
         System.out.println(supermarketWith3Queues.getQueue3().toString());
 
 
+        ChessBoard chessBoard = new ChessBoard();
 
     }
 }
